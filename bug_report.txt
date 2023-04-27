@@ -1,1 +1,12 @@
-
+short description:
+ roject
+	version
+	bug severity
+	priority
+	status
+	author
+	perfumer
+	steps
+	actual result
+	expected result
+	additions
